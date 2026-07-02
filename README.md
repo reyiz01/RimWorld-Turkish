@@ -10,7 +10,7 @@
    * Wiki kısmından anasayfaya tıklatıp "Katkıda bulunmak için" kısmını okuyun.
 
 ## Translators - Çevirmenler
- *[@Reyiz01](https://github.com/reyiz01) 
+⚪[@Reyiz01](https://github.com/reyiz01) 
 * [@Meriç Alemdar](https://github.com/alemdarwilson)
 * [@Meriç Alemdar](https://github.com/alemdarwilson)
 * [@AtFreezingPoint](https://github.com/AtFreezingPoint)
